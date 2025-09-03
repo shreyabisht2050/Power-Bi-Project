@@ -4,6 +4,7 @@ This dashboard provides insights into sales, profit, quantity, and customer beha
 It was created in Power BI using processed sales data.
 
 🔹 Key Insights
+
 Total Orders: 5,615 | Total Quantity: 438K | Total Profit: 37K | Total Customers: 121K
 Profit Trends: Highest profits in January, February, and December; losses in May–July.
 
